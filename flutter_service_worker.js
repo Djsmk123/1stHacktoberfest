@@ -3,13 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8c7364654b35657a008c751c93bcd920",
+  "assets/AssetManifest.json": "c9a694ea7c959a49ae7534a600e6ca87",
+"assets/assets/AssetManifest.json": "8c7364654b35657a008c751c93bcd920",
+"assets/assets/assets/banner.png": "26545e7a5cb7013a221628f97fde0aef",
+"assets/assets/assets/banner_dark.png": "06be7bacbf88f09f7258022625c71561",
+"assets/assets/assets/img.png": "9f55cdc7437ac981a1a4cee1eba4b7d8",
+"assets/assets/assets/img1.png": "fd66a68e9f399f108ee28bfda4cc4f10",
+"assets/assets/assets/no_search_found.png": "a97a430662a2a9ad33d811dc48f4b38d",
+"assets/assets/assets/user.data.json": "61f029d1933cb1b4d0b7ffe8319306ab",
+"assets/assets/assets/user.png": "c196818de30eefe26e300c488c8e1b5b",
 "assets/assets/banner.png": "26545e7a5cb7013a221628f97fde0aef",
 "assets/assets/banner_dark.png": "06be7bacbf88f09f7258022625c71561",
+"assets/assets/FontManifest.json": "1a6184c6ca656e8be25d25329c87e502",
 "assets/assets/img.png": "9f55cdc7437ac981a1a4cee1eba4b7d8",
 "assets/assets/img1.png": "fd66a68e9f399f108ee28bfda4cc4f10",
+"assets/assets/NOTICES": "babcfe66f47aa1ffa019455a2dd367e2",
 "assets/assets/no_search_found.png": "a97a430662a2a9ad33d811dc48f4b38d",
-"assets/assets/user.data.json": "61f029d1933cb1b4d0b7ffe8319306ab",
+"assets/assets/user.data.json": "6614882f41888e6f49b2abae5c97d7b8",
 "assets/assets/user.png": "c196818de30eefe26e300c488c8e1b5b",
 "assets/FontManifest.json": "1a6184c6ca656e8be25d25329c87e502",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -26,9 +36,9 @@ const RESOURCES = {
 "icons/Black,%20White%20and%20Pink%20Cube%20Kyobi%20Games%20Logo.png": "1f5c222dd4d64d9a11e83fcb200108a1",
 "icons/Icon-192.png": "edb2c93276f99e5df730fa3f94979573",
 "icons/Icon-512.png": "efa2952e2e263193abcc03fb67bf0018",
-"index.html": "ef9d0a742d20e58158eda51a07110bb6",
-"/": "ef9d0a742d20e58158eda51a07110bb6",
-"main.dart.js": "d00e4ded93b2cf0e86039841ae6af6a1",
+"index.html": "6e3b865ef09af330c056c184d5bd2a80",
+"/": "6e3b865ef09af330c056c184d5bd2a80",
+"main.dart.js": "9bba86ae2c88ebd50488b1cc9bff2319",
 "manifest.json": "95c1cb9f2ef085444795120f5301dd50",
 "version.json": "665f16812bb4f0243d19813802a00c05"
 };
